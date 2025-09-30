@@ -60,4 +60,13 @@ Git Push
 7.  Установить срок действия (**Expiration**).
 8.  Выбрать scopes.
 9.  Нажать Generate token внизу страницы.
-10. Скопировать полученный токен Больше вы его не увидите.
+10. Скопировать полученный токен, его видно одмн раз.
+<img width="1214" height="372" alt="image" src="https://github.com/user-attachments/assets/3baedeb2-852a-426e-a271-43f81d0e0e2e" />
+<img width="1206" height="420" alt="image" src="https://github.com/user-attachments/assets/dfd82ae6-363e-4801-80f0-fdfb12154585" />
+<img width="1227" height="876" alt="image" src="https://github.com/user-attachments/assets/887975b1-3e6f-4767-beeb-0bea1d734cf0" />
+<img width="1053" height="856" alt="image" src="https://github.com/user-attachments/assets/395d39a2-6113-4d9c-8350-7f8aba9e009f" />
+<img width="1189" height="327" alt="image" src="https://github.com/user-attachments/assets/99066f1c-c26e-418e-b3d4-1db921575978" />
+
+
+
+
