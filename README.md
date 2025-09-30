@@ -1,7 +1,7 @@
 Богдан Фурса
 ИТ-11.24.5
 FursaBA23@spb.ithub.ru
-## Git Pull
+Git Pull
 
 1.  Скопировать URL на GitHub.
     *   Зайдите на страницу репозитория.
@@ -22,7 +22,7 @@ FursaBA23@spb.ithub.ru
         cd your-repository-name
     
 
-## Git Push
+Git Push
 
 1.  Добавить измененные файлы в область staged.
     *   Чтобы добавить все измененные файлы:
@@ -47,9 +47,7 @@ FursaBA23@spb.ithub.ru
     *   Username: Ваш логин на GitHub.
     *   Password: Использовать Personal Access Token, а не пароль
 
----
-
-## Получение токена доступа для GitHub
+Получение токена доступа для GitHub
 
 Для работы через терминал потребуется токен доступа, а не пароль от сайта.
 
