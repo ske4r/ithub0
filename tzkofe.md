@@ -46,3 +46,15 @@ Telegram-бот "CoffeeBoost" для стимулирования заказов
 - Напоминания о неиспользованных бонусах
 - Персональные предложения
 - Уведомления о статусе заказа
+- 
+## Технические аспекты
+
+### Архитектура
+graph TB
+    A[Telegram Bot] --> B[API Gateway]
+    B --> C[Order Service]
+    B --> D[Payment Service]
+    B --> E[Notification Service]
+    C --> F[(Database)]
+    D --> G[Payment Provider]
+    E --> H[Telegram API]
