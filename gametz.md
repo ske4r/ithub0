@@ -149,9 +149,3 @@ graph TB
     F --> G[Головоломка 2<br/>Биолюминесценция]
     G --> H[Критический выбор<br/>Использование знаний]
     H --> I[Финал<br/>Спасение]
-    
-    style A fill:#e3f2fd
-    style I fill:#e8f5e8
-    style E fill:#ffebee
-    style D fill:#fff3e0
-    style G fill:#fff3e0
