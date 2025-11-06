@@ -32,18 +32,7 @@ Telegram-бот "CoffeeBoost" для стимулирования заказов
 
 ## Функциональные требования
 
-### Ядро системы
-
-#### 1. Умное меню
-```python
-# Псевдокод системы динамического ценообразования
-def calculate_dynamic_price(base_price, current_hour):
-    peak_hours = [8, 9, 12, 13, 17, 18]
-    off_peak_hours = [10, 11, 14, 15, 16]
-    
-    if current_hour in peak_hours:
-        return base_price * 1.1  # +10%
-    elif current_hour in off_peak_hours:
-        return base_price * 0.85  # -15%
-    else:
-        return base_price * 0.75  # -25% в глубоко непиковое время
+### Система лояльности
+- Накопительные балы (1 рубль = 1 балл)
+- Персональные скидки на основе истории заказов
+- "Счастливые часы" с повышенным кэшбэком
